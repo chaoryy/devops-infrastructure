@@ -4,5 +4,4 @@
 
 # DevOps Infrastructure Repository
 
-> Status: infrastructure setup in progress
-bash
+> Status: infrastructure ready, deployment in progress
