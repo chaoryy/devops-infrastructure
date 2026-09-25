@@ -4,4 +4,4 @@
 
 # DevOps Infrastructure Repository
 
-> Status: ready for deployment
+> Status: infrastructure ready, deployment in progress
